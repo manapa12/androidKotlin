@@ -1,2 +1,3 @@
 # androidKotlin
-Mi proyecto de android
+Mi proyecto de android, en su segunda version
+
