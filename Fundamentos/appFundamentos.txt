@@ -1,0 +1,49 @@
+package com.maparicio1.actividadfundamentos
+
+fun main(){
+    //Variables
+    var perro: String = "matt"
+    var gato: String = "fido"
+    var lugar: String = "Guatemala"
+    var edad: Int = 26
+    var goles: Int = 5
+    var estatura: Double = 12.5
+    var costo: Double = 5.6
+    var numeroFlotante: Float = 2.4f
+    var letra: Char = 'D'
+    var esCierto: Boolean = true
+
+    println(perro)
+    println(gato)
+    println(lugar)
+    println(edad)
+    println(goles)
+    println(estatura)
+    println(costo)
+    println(numeroFlotante)
+    println(letra)
+    println(esCierto)
+
+    //Valores
+    val nombre: String = "Manuel"
+    val apellido: String = "Aparicio"
+    val numeroDePersonas: Int = 120
+    val numeroDeEstudiantes: Int = 20
+    val costoDeCompra: Double = 24.4
+    val letraInicial: Char = 'A'
+    val esPar: Boolean = false
+    val marcaDeCarro: String = "Ford"
+    val FechaCreacion: Int = 1990
+    val valorResta: Double = 23.4
+
+    println(nombre)
+    println(apellido)
+    println(numeroDePersonas)
+    println(numeroDeEstudiantes)
+    println(costoDeCompra)
+    println(letraInicial)
+    println(esPar)
+    println(marcaDeCarro)
+    println(FechaCreacion)
+    println(valorResta)
+}
